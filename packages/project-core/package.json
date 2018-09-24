@@ -1,6 +1,6 @@
 {
   "name": "project-core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pkg-a": "^1.0.0",
-    "pkg-b": "^1.0.0"
+    "pkg-a": "^1.0.1",
+    "pkg-b": "^1.0.1"
   }
 }
